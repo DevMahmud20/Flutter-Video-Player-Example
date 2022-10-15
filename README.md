@@ -1,6 +1,6 @@
-# demo
+# Flutter Video Player Example
 
-A new Flutter project.
+This repository uses PodPlayer for video playing.
 
 ## Getting Started
 
